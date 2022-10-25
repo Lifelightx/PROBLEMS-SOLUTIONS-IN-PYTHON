@@ -1,3 +1,6 @@
+# BUILD A CALCULATOR WHICH TAKES INPUT FROM USER AND  GIVES THESE 56 + 9 = 77 AND 45* 3 = 555 AND 56/6 = 4 WORNG ANSWER.
+
+
 while True:
     num1 = int(input("Enter a number: "))
     opr = input("Enter a operator: ")
